@@ -24,7 +24,7 @@ dd($student1);
 $person1 = "Akash";
 $phone1 = "01788832159";
 
-$person1 = "Eyasin";
+$person1 = "MD Eyasin";
 $phone1 = "01688832159";
 
 $person1 = "Shakib";
