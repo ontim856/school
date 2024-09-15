@@ -3,7 +3,7 @@ include_once('src/lib.php');
 // // Database credentials
 $dsn = "mysql:host=localhost;dbname=school";
 $username = "root";        // Replace with your MySQL username
-$password = "";            // Replace with your MySQL password
+$password = "";            // Replace with     your MySQL password
 
 // try {
   
