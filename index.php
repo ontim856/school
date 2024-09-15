@@ -1,7 +1,9 @@
 <?php 
-include_once('partials/header.php');
-include_once('partials/navbar.php');
-include_once('partials/carousel.php');
+include_once('config.php');
+include_once('frontend/partials/header.php');
+include_once('frontend/partials/navbar.php');
+include_once('frontend/partials/carousel.php');
+
 ?>
 
 
