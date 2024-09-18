@@ -15,14 +15,17 @@
         <div class="col-2 p-2">
         <img src="<?=$img?>/BAF_Logo.png" alt="Logo" width="90px">  
         </div>
-        <div class="col-7 mt-2">
+        <div class="col-7 mt-3">
         <h1 style="text-align: center">KARPASHA GOVT PRIMARY SCHOOL</h1>
         <h4 style="text-align: center">Karpasha,Nikli,Kishoregonj.</p>
         </div>
 
-        <div class="col-3">
-        <p ml-10px >EIIN: 100076</p>
-        <p style="text-align: center"><i class="bi bi-envelope"></i> karpasha111@gmail.com </p>
+        <div class="col-3 mb-3 lh-1">
+        <p>EIIN: 100076</p>
+        <p><i class="bi bi-envelope"></i> karpasha111@gmail.com </p>
+        <p><i class="bi bi-telephone-forward"></i>  01788832159</p>
+        <span class="bg-dark text-white">Admision Form</span>
+        <span bg-danger>Login</span>
         </div>
     </div> 
 
