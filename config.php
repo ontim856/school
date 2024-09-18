@@ -1,10 +1,11 @@
 <?php 
+include_once('local.config.php');
 include_once('src/lib.php');
 // // Database credentials
 $dsn = "mysql:host=localhost;dbname=school";
 $username = "root";        // Replace with your MySQL username
 $password = "";            // Replace with   your MySQL password
-
+ 
 // try {
   
     
