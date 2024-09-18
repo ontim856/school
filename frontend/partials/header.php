@@ -6,6 +6,9 @@
     <title>My School Project </title>
     <link rel="stylesheet" href="<?=$css?>/bootstrap.min.css">
   <link rel="stylesheet" href="<?=$css?>/style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+
+ 
 </head>
 <body class="">
     <div class="row bg-info">
@@ -18,9 +21,8 @@
         </div>
 
         <div class="col-3">
-        <p style="text-align: center">EIIN: 100076</p>
-        <p style="text-align: center "> <i class="fas fa-camera"></i>
-        Karpasha</p>
+        <p ml-10px >EIIN: 100076</p>
+        <p style="text-align: center"><i class="bi bi-envelope"></i> karpasha111@gmail.com </p>
         </div>
     </div> 
 
