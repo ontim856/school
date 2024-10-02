@@ -21,16 +21,4 @@ $student1->name = "Akaash";
 
 
 
-
-
-
-$person1 = "Akash";
-$phone1 = "01788832159";
-
-$person1 = "MD Eyasin";
-$phone1 = "01688832159";
-
-$person1 = "Shakib";
-$phone1 = "01888832159";
-
 ?>
