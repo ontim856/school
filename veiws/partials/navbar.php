@@ -1,5 +1,5 @@
 
-<nav class="navbar navbar-expand-lg bg-secondary ">
+<nav class="navbar navbar-expand-lg bg-secondary d-block">
   <div class="container-fluid bg-muted">
     <a class="navbar-brand text-white" href="#">Home</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -46,3 +46,4 @@
     </div>
   </div>
 </nav>
+
