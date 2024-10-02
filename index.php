@@ -1,8 +1,8 @@
 <?php 
 include_once('config.php');
-include_once('frontend/partials/header.php');
-include_once('frontend/partials/navbar.php');
-include_once('frontend/partials/carousel.php');
+include_once('veiws/partials/header.php');
+include_once('veiws/partials/navbar.php');
+include_once('veiws/partials/carousel.php');
 
 ?>
 

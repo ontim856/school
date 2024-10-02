@@ -1,6 +1,6 @@
 <?php 
 include_once('local.config.php');
-include_once('src/lib.php');
+include_once('functions/lib.php');
 
      
 
